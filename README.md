@@ -11,7 +11,7 @@ yarn global add --global gatsby-cli
 Create new Gatsby project using this starter:
 
 ```sh
-gatsby new my-new-website https://github.com/jaredph/gatsby-starter
+gatsby new my-new-website https://github.com/JaredPh/gatsby-starter
 ```
 
 ```sh
